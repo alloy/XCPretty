@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "xcpretty/printer"
 require "xcpretty/printers/simple"
 require "fixtures/constants"

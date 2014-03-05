@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 $:.unshift('.', __FILE__)
 require "lib/xcpretty/ansi"
 require "support/matchers/colors"

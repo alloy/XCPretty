@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 RSpec::Matchers.define :be_colored do |expected|
 
   def effects_string(actual)

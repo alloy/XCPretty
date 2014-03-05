@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "spec_helper"
 require "xcpretty/printer"
 require "xcpretty/printers/rspec"
